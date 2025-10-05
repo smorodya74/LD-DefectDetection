@@ -1,0 +1,47 @@
+version: "3.9"
+
+services:
+  pg:
+    image: postgres:16
+    container_name: pg_container
+    environment:
+      POSTGRES_DB: lddb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d lddb"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build:
+      context: ./backend
+    container_name: backend_container
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@pg:5432/lddb
+    depends_on:
+      pg:
+        condition: service_healthy
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./backend/img:/app/img   # только статика, без затирания кода
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: frontend_container
+    environment:
+      NEXT_PUBLIC_API_URL: http://backend:8001
+    depends_on:
+      - backend
+    ports:
+      - "3000:3000"
+
+volumes:
+  pgdata:

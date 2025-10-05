@@ -1,0 +1,5714 @@
+[
+  {
+    "date": "2025-09-01",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 122,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-01",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 145,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-01",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 130,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-01",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 122,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-01",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 61,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-01",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 82,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-01",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 137,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-01",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 104,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-01",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 80,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-01",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 104,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-01",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 115,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-01",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 71,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-01",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 73,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-01",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 113,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-01",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 84,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-01",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 78,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-01",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 77,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-01",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 64,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-01",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 131,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-01",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 122,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-01",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 63,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-01",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 101,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-01",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 96,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-01",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 103,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-02",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 103,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-02",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 131,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-02",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 149,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-02",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 66,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-02",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 148,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-02",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 93,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-02",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 100,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-02",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 59,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-02",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 128,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-02",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 147,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-02",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 139,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-02",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 53,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-02",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 72,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-02",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 55,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-02",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 118,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-02",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 92,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-02",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 128,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-02",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 59,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-02",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 99,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-02",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 94,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-02",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 81,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-02",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 141,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-02",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 78,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-02",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 68,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-03",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 50,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-03",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 74,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-03",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 75,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-03",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 129,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-03",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 85,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-03",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 86,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-03",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 63,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-03",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 71,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-03",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 62,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-03",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 70,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-03",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 50,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-03",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 100,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-03",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 117,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-03",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 85,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-03",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 144,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-03",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 63,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-03",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 131,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-03",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 91,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-03",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 121,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-03",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 129,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-03",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 99,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-03",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 52,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-03",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 99,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-03",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 54,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-04",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 78,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-04",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 89,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-04",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 119,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-04",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 75,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-04",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 148,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-04",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 113,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-04",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 74,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-04",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 106,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-04",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 73,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-04",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 134,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-04",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 60,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-04",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 67,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-04",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 82,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-04",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 51,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-04",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 55,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-04",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 116,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-04",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 131,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-04",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 138,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-04",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 112,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-04",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 128,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-04",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 131,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-04",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 127,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-04",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 148,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-04",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 65,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-05",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 102,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-05",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 106,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-05",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 134,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-05",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 141,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-05",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 96,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-05",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 88,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-05",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 124,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-05",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 112,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-05",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 89,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-05",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 59,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-05",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 103,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-05",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 129,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-05",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 128,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-05",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 137,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-05",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 54,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-05",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 127,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-05",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 104,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-05",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 80,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-05",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 140,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-05",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 105,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-05",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 79,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-05",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-05",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 117,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-05",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 127,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-06",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 80,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-06",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 82,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-06",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 85,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-06",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 111,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-06",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 90,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-06",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 76,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-06",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 110,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-06",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 80,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-06",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 66,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-06",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-06",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 81,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-06",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 61,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-06",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 107,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-06",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 134,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-06",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 69,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-06",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 122,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-06",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 98,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-06",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 114,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-06",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 56,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-06",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 73,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-06",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 124,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-06",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 114,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-06",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 88,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-06",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 119,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-07",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 80,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-07",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 100,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-07",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 131,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-07",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 100,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-07",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 120,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-07",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 121,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-07",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 79,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-07",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 108,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-07",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 127,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-07",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 55,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-07",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 62,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-07",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 142,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-07",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 116,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-07",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 81,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-07",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 75,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-07",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 74,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-07",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 83,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-07",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 149,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-07",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 126,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-07",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 130,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-07",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 70,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-07",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 110,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-07",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 138,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-07",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 106,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-08",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 65,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-08",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 111,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-08",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 54,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-08",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 124,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-08",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 132,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-08",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 73,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-08",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 149,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-08",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 112,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-08",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 110,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-08",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 82,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-08",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 114,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-08",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 74,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-08",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 145,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-08",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 77,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-08",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 101,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-08",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 50,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-08",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 78,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-08",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 125,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-08",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 63,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-08",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 85,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-08",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 69,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-08",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 150,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-08",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 52,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-08",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 124,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-09",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 91,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-09",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 133,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-09",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 53,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-09",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 120,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-09",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 56,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-09",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 80,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-09",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 78,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-09",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 138,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-09",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 92,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-09",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 113,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-09",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 92,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-09",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 102,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-09",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 110,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-09",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 98,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-09",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 59,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-09",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 109,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-09",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 77,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-09",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 70,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-09",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 137,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-09",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 88,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-09",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 132,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-09",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 86,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-09",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 50,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-09",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 145,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-10",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 52,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-10",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 149,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-10",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 118,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-10",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 68,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-10",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 137,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-10",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 97,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-10",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 146,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-10",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 72,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-10",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 82,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-10",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 57,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-10",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 125,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-10",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 102,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-10",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 121,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-10",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 105,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-10",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 94,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-10",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 81,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-10",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 104,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-10",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 89,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-10",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 147,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-10",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 132,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-10",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 98,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-10",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 105,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-10",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 112,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-10",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 123,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-11",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 146,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-11",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 83,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-11",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 105,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-11",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 58,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-11",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 105,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-11",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 118,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-11",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 97,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-11",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 114,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-11",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 135,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-11",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 118,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-11",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 104,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-11",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 87,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-11",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 63,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-11",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 99,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-11",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 115,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-11",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 123,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-11",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 126,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-11",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 79,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-11",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 55,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-11",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 93,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-11",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 53,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-11",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 114,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-11",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 58,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-11",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 100,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-12",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 97,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-12",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 150,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-12",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 64,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-12",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 136,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-12",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 123,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-12",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 83,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-12",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 99,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-12",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 111,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-12",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 78,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-12",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 125,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-12",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 109,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-12",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 134,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-12",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 92,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-12",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 54,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-12",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 119,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-12",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 57,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-12",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 138,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-12",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-12",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 77,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-12",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 88,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-12",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 131,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-12",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 123,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-12",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 69,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-12",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 123,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-13",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 140,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-13",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 132,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-13",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 143,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-13",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 72,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-13",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 76,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-13",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 121,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-13",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 113,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-13",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 97,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-13",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 115,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-13",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 117,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-13",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 93,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-13",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 115,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-13",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 65,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-13",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 52,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-13",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 98,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-13",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 100,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-13",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 144,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-13",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 51,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-13",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 93,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-13",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 127,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-13",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 123,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-13",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 113,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-13",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 101,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-13",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 139,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-14",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 89,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-14",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 124,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-14",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 67,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-14",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 86,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-14",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 147,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-14",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 87,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-14",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 102,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-14",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 77,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-14",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 145,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-14",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 148,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-14",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 96,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-14",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 141,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-14",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 57,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-14",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 74,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-14",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 111,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-14",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 103,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-14",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 142,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-14",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 58,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-14",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 146,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-14",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 87,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-14",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 147,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-14",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 120,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-14",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 84,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-14",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 105,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-15",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 87,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-15",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 85,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-15",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 140,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-15",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 126,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-15",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 136,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-15",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 71,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-15",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 110,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-15",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 90,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-15",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 85,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-15",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-15",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 85,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-15",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 149,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-15",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 51,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-15",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 143,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-15",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 85,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-15",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 141,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-15",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 136,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-15",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 50,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-15",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 110,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-15",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 55,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-15",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 139,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-15",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 132,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-15",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 86,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-15",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 125,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-16",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 102,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-16",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 109,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-16",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 133,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-16",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 100,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-16",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 67,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-16",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 77,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-16",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 142,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-16",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 85,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-16",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 125,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-16",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 124,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-16",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 130,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-16",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 149,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-16",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 97,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-16",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 104,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-16",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 98,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-16",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 76,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-16",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 100,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-16",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 116,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-16",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 125,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-16",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 51,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-16",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 132,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-16",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 86,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-16",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 72,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-16",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 123,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-17",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 98,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-17",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 117,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-17",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 87,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-17",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 88,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-17",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 127,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-17",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 84,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-17",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 61,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-17",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 82,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-17",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 98,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-17",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 83,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-17",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 52,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-17",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 108,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-17",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 58,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-17",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 142,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-17",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 109,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-17",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 64,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-17",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 97,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-17",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 138,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-17",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 118,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-17",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 54,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-17",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 85,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-17",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 61,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-17",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 110,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-17",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 56,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-18",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 138,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-18",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 110,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-18",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 118,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-18",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 141,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-18",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 53,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-18",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 112,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-18",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 89,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-18",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 127,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-18",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 121,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-18",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 82,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-18",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 104,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-18",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 109,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-18",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 136,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-18",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 107,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-18",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 73,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-18",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 128,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-18",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 149,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-18",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 99,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-18",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 60,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-18",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 139,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-18",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 53,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-18",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 139,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-18",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 149,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-18",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 89,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-19",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 101,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-19",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 61,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-19",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 94,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-19",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 61,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-19",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 61,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-19",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 57,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-19",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 121,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-19",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 102,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-19",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 125,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-19",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 142,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-19",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 100,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-19",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 85,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-19",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 76,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-19",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 126,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-19",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 124,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-19",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 90,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-19",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 66,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-19",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 135,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-19",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 62,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-19",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 96,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-19",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 110,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-19",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 135,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-19",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 78,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-19",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 134,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-20",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 67,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-20",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 127,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-20",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 81,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-20",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 112,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-20",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 99,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-20",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 102,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-20",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 137,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-20",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 130,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-20",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 111,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-20",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 92,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-20",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 122,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-20",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 106,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-20",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 123,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-20",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 52,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-20",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 134,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-20",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 54,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-20",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 54,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-20",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 138,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-20",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 107,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-20",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 52,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-20",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 104,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-20",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 71,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-20",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 104,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-20",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 77,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-21",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 96,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-21",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 52,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-21",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 66,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-21",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 102,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-21",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 65,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-21",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 130,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-21",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 103,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-21",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 86,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-21",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 103,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-21",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 71,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-21",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 57,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-21",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 112,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-21",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 116,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-21",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 91,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-21",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 93,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-21",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 143,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-21",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 102,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-21",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 67,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-21",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 67,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-21",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 120,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-21",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 108,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-21",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 131,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-21",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 130,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-21",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 87,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-22",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 93,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-22",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 126,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-22",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 62,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-22",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 106,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-22",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 69,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-22",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 115,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-22",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 144,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-22",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 101,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-22",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 125,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-22",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 94,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-22",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 124,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-22",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 104,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-22",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 58,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-22",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 127,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-22",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 100,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-22",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 147,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-22",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 52,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-22",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 64,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-22",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 126,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-22",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 68,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-22",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 61,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-22",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 105,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-22",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 101,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-22",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 138,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-23",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 84,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-23",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 64,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-23",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 97,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-23",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 54,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-23",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 133,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-23",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 68,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-23",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 59,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-23",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 50,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-23",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 141,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-23",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-23",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 105,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-23",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 110,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-23",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 62,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-23",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 63,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-23",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 141,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-23",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 84,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-23",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 137,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-23",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 142,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-23",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 136,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-23",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 90,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-23",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 150,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-23",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 124,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-23",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 66,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-23",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 87,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-24",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 80,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-24",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 52,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-24",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 85,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-24",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 147,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-24",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 126,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-24",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 107,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-24",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 50,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-24",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 80,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-24",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 102,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-24",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-24",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 88,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-24",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 58,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-24",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 76,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-24",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 113,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-24",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 82,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-24",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 89,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-24",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 102,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-24",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 101,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-24",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 94,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-24",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 129,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-24",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 129,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-24",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 50,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-24",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 84,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-24",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 62,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-25",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 110,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-25",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 105,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-25",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 60,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-25",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 96,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-25",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 105,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-25",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 84,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-25",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 96,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-25",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 127,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-25",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 148,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-25",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 149,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-25",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 136,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-25",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 118,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-25",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 130,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-25",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 83,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-25",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 60,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-25",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 83,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-25",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 102,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-25",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 79,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-25",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 150,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-25",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 63,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-25",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 83,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-25",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 63,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-25",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 114,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-25",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 51,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-26",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 120,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-26",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 132,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-26",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 137,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-26",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 143,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-26",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 69,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-26",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 106,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-26",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 102,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-26",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 68,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-26",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 143,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-26",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 95,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-26",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 103,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-26",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 141,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-26",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 133,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-26",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 121,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-26",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 119,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-26",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 148,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-26",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 97,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-26",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 136,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-26",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 54,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-26",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 149,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-26",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 81,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-26",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 103,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-26",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 69,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-26",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 76,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-27",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 141,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-27",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 86,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-27",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 89,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-27",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 134,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-27",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 105,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-27",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 124,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-27",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 124,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-27",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 64,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-27",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 126,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-27",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 64,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-27",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 101,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-27",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 70,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-27",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 115,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-27",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 143,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-27",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 111,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-27",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 76,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-27",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 121,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-27",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 115,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-27",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 91,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-27",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 54,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-27",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 61,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-27",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 104,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-27",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 84,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-27",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 61,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-28",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 121,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-28",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 129,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-28",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 147,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-28",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 98,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-28",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 110,
+    "defective": 0
+  },
+  {
+    "date": "2025-09-28",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 131,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-28",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 92,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-28",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 60,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-28",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 69,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-28",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 96,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-28",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 131,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-28",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 116,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-28",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 136,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-28",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 58,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-28",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 111,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-28",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 113,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-28",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 129,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-28",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 89,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-28",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 59,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-28",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 135,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-28",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 103,
+    "defective": 13
+  },
+  {
+    "date": "2025-09-28",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 146,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-28",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 119,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-28",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 77,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-29",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 141,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-29",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 119,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-29",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 117,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-29",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 99,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-29",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 150,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-29",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 68,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-29",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 87,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-29",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 66,
+    "defective": 19
+  },
+  {
+    "date": "2025-09-29",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 119,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-29",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 143,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-29",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 67,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-29",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 94,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-29",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 146,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-29",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 71,
+    "defective": 15
+  },
+  {
+    "date": "2025-09-29",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 137,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-29",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 109,
+    "defective": 5
+  },
+  {
+    "date": "2025-09-29",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 123,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-29",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 75,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-29",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 109,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-29",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 137,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-29",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 58,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-29",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 136,
+    "defective": 8
+  },
+  {
+    "date": "2025-09-29",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 77,
+    "defective": 4
+  },
+  {
+    "date": "2025-09-29",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 84,
+    "defective": 14
+  },
+  {
+    "date": "2025-09-30",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 50,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-30",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 138,
+    "defective": 16
+  },
+  {
+    "date": "2025-09-30",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 53,
+    "defective": 12
+  },
+  {
+    "date": "2025-09-30",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 63,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-30",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 63,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-30",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 91,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-30",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 136,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-30",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 121,
+    "defective": 17
+  },
+  {
+    "date": "2025-09-30",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 117,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-30",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 108,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-30",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 144,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-30",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 87,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-30",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 117,
+    "defective": 9
+  },
+  {
+    "date": "2025-09-30",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 149,
+    "defective": 2
+  },
+  {
+    "date": "2025-09-30",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 140,
+    "defective": 11
+  },
+  {
+    "date": "2025-09-30",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 56,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-30",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 119,
+    "defective": 18
+  },
+  {
+    "date": "2025-09-30",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 58,
+    "defective": 20
+  },
+  {
+    "date": "2025-09-30",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 75,
+    "defective": 1
+  },
+  {
+    "date": "2025-09-30",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 88,
+    "defective": 3
+  },
+  {
+    "date": "2025-09-30",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 103,
+    "defective": 6
+  },
+  {
+    "date": "2025-09-30",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 98,
+    "defective": 7
+  },
+  {
+    "date": "2025-09-30",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 91,
+    "defective": 10
+  },
+  {
+    "date": "2025-09-30",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 72,
+    "defective": 12
+  },
+  {
+    "date": "2025-10-01",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 89,
+    "defective": 8
+  },
+  {
+    "date": "2025-10-01",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 67,
+    "defective": 15
+  },
+  {
+    "date": "2025-10-01",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 119,
+    "defective": 8
+  },
+  {
+    "date": "2025-10-01",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 74,
+    "defective": 15
+  },
+  {
+    "date": "2025-10-01",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 143,
+    "defective": 6
+  },
+  {
+    "date": "2025-10-01",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 68,
+    "defective": 19
+  },
+  {
+    "date": "2025-10-01",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 102,
+    "defective": 14
+  },
+  {
+    "date": "2025-10-01",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 68,
+    "defective": 6
+  },
+  {
+    "date": "2025-10-01",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 124,
+    "defective": 0
+  },
+  {
+    "date": "2025-10-01",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 89,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-01",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 85,
+    "defective": 13
+  },
+  {
+    "date": "2025-10-01",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 86,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-01",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 103,
+    "defective": 10
+  },
+  {
+    "date": "2025-10-01",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 56,
+    "defective": 1
+  },
+  {
+    "date": "2025-10-01",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 128,
+    "defective": 1
+  },
+  {
+    "date": "2025-10-01",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 116,
+    "defective": 10
+  },
+  {
+    "date": "2025-10-01",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 118,
+    "defective": 0
+  },
+  {
+    "date": "2025-10-01",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 102,
+    "defective": 14
+  },
+  {
+    "date": "2025-10-01",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 129,
+    "defective": 18
+  },
+  {
+    "date": "2025-10-01",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 83,
+    "defective": 9
+  },
+  {
+    "date": "2025-10-01",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 53,
+    "defective": 8
+  },
+  {
+    "date": "2025-10-01",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 62,
+    "defective": 13
+  },
+  {
+    "date": "2025-10-01",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 57,
+    "defective": 4
+  },
+  {
+    "date": "2025-10-01",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 138,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-02",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 60,
+    "defective": 12
+  },
+  {
+    "date": "2025-10-02",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 131,
+    "defective": 20
+  },
+  {
+    "date": "2025-10-02",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 112,
+    "defective": 0
+  },
+  {
+    "date": "2025-10-02",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 100,
+    "defective": 0
+  },
+  {
+    "date": "2025-10-02",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 113,
+    "defective": 8
+  },
+  {
+    "date": "2025-10-02",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 133,
+    "defective": 14
+  },
+  {
+    "date": "2025-10-02",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 143,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-02",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 58,
+    "defective": 10
+  },
+  {
+    "date": "2025-10-02",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 72,
+    "defective": 0
+  },
+  {
+    "date": "2025-10-02",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 128,
+    "defective": 11
+  },
+  {
+    "date": "2025-10-02",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 88,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-02",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 65,
+    "defective": 3
+  },
+  {
+    "date": "2025-10-02",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 139,
+    "defective": 18
+  },
+  {
+    "date": "2025-10-02",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 143,
+    "defective": 2
+  },
+  {
+    "date": "2025-10-02",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 123,
+    "defective": 12
+  },
+  {
+    "date": "2025-10-02",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 139,
+    "defective": 12
+  },
+  {
+    "date": "2025-10-02",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 90,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-02",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 82,
+    "defective": 17
+  },
+  {
+    "date": "2025-10-02",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 127,
+    "defective": 1
+  },
+  {
+    "date": "2025-10-02",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 75,
+    "defective": 1
+  },
+  {
+    "date": "2025-10-02",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 77,
+    "defective": 15
+  },
+  {
+    "date": "2025-10-02",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 81,
+    "defective": 6
+  },
+  {
+    "date": "2025-10-02",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 78,
+    "defective": 10
+  },
+  {
+    "date": "2025-10-02",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 96,
+    "defective": 14
+  },
+  {
+    "date": "2025-10-03",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 137,
+    "defective": 18
+  },
+  {
+    "date": "2025-10-03",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 68,
+    "defective": 15
+  },
+  {
+    "date": "2025-10-03",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 66,
+    "defective": 13
+  },
+  {
+    "date": "2025-10-03",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 69,
+    "defective": 19
+  },
+  {
+    "date": "2025-10-03",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 109,
+    "defective": 11
+  },
+  {
+    "date": "2025-10-03",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 122,
+    "defective": 9
+  },
+  {
+    "date": "2025-10-03",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 98,
+    "defective": 9
+  },
+  {
+    "date": "2025-10-03",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 78,
+    "defective": 2
+  },
+  {
+    "date": "2025-10-03",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 88,
+    "defective": 19
+  },
+  {
+    "date": "2025-10-03",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 83,
+    "defective": 0
+  },
+  {
+    "date": "2025-10-03",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 140,
+    "defective": 2
+  },
+  {
+    "date": "2025-10-03",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 71,
+    "defective": 5
+  },
+  {
+    "date": "2025-10-03",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 92,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-03",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 138,
+    "defective": 15
+  },
+  {
+    "date": "2025-10-03",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 67,
+    "defective": 6
+  },
+  {
+    "date": "2025-10-03",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 55,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-03",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 63,
+    "defective": 3
+  },
+  {
+    "date": "2025-10-03",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 88,
+    "defective": 9
+  },
+  {
+    "date": "2025-10-03",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 127,
+    "defective": 20
+  },
+  {
+    "date": "2025-10-03",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 72,
+    "defective": 10
+  },
+  {
+    "date": "2025-10-03",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 96,
+    "defective": 19
+  },
+  {
+    "date": "2025-10-03",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 149,
+    "defective": 10
+  },
+  {
+    "date": "2025-10-03",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 62,
+    "defective": 18
+  },
+  {
+    "date": "2025-10-03",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 74,
+    "defective": 20
+  },
+  {
+    "date": "2025-10-04",
+    "time": "00:00",
+    "part": "Кран (1/2)",
+    "produced": 64,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-04",
+    "time": "00:00",
+    "part": "Кран (3/4)",
+    "produced": 96,
+    "defective": 4
+  },
+  {
+    "date": "2025-10-04",
+    "time": "00:00",
+    "part": "Кран (1)",
+    "produced": 63,
+    "defective": 13
+  },
+  {
+    "date": "2025-10-04",
+    "time": "00:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 83,
+    "defective": 9
+  },
+  {
+    "date": "2025-10-04",
+    "time": "04:00",
+    "part": "Кран (1/2)",
+    "produced": 74,
+    "defective": 14
+  },
+  {
+    "date": "2025-10-04",
+    "time": "04:00",
+    "part": "Кран (3/4)",
+    "produced": 90,
+    "defective": 11
+  },
+  {
+    "date": "2025-10-04",
+    "time": "04:00",
+    "part": "Кран (1)",
+    "produced": 105,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-04",
+    "time": "04:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 102,
+    "defective": 2
+  },
+  {
+    "date": "2025-10-04",
+    "time": "08:00",
+    "part": "Кран (1/2)",
+    "produced": 135,
+    "defective": 13
+  },
+  {
+    "date": "2025-10-04",
+    "time": "08:00",
+    "part": "Кран (3/4)",
+    "produced": 139,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-04",
+    "time": "08:00",
+    "part": "Кран (1)",
+    "produced": 83,
+    "defective": 14
+  },
+  {
+    "date": "2025-10-04",
+    "time": "08:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 64,
+    "defective": 20
+  },
+  {
+    "date": "2025-10-04",
+    "time": "12:00",
+    "part": "Кран (1/2)",
+    "produced": 78,
+    "defective": 16
+  },
+  {
+    "date": "2025-10-04",
+    "time": "12:00",
+    "part": "Кран (3/4)",
+    "produced": 64,
+    "defective": 6
+  },
+  {
+    "date": "2025-10-04",
+    "time": "12:00",
+    "part": "Кран (1)",
+    "produced": 90,
+    "defective": 11
+  },
+  {
+    "date": "2025-10-04",
+    "time": "12:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 79,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-04",
+    "time": "16:00",
+    "part": "Кран (1/2)",
+    "produced": 82,
+    "defective": 9
+  },
+  {
+    "date": "2025-10-04",
+    "time": "16:00",
+    "part": "Кран (3/4)",
+    "produced": 146,
+    "defective": 7
+  },
+  {
+    "date": "2025-10-04",
+    "time": "16:00",
+    "part": "Кран (1)",
+    "produced": 80,
+    "defective": 17
+  },
+  {
+    "date": "2025-10-04",
+    "time": "16:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 97,
+    "defective": 4
+  },
+  {
+    "date": "2025-10-04",
+    "time": "20:00",
+    "part": "Кран (1/2)",
+    "produced": 105,
+    "defective": 8
+  },
+  {
+    "date": "2025-10-04",
+    "time": "20:00",
+    "part": "Кран (3/4)",
+    "produced": 144,
+    "defective": 17
+  },
+  {
+    "date": "2025-10-04",
+    "time": "20:00",
+    "part": "Кран (1)",
+    "produced": 69,
+    "defective": 12
+  },
+  {
+    "date": "2025-10-04",
+    "time": "20:00",
+    "part": "Кран (1 (1/4))",
+    "produced": 141,
+    "defective": 3
+  }
+]
