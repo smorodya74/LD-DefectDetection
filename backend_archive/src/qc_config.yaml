@@ -1,0 +1,53 @@
+golden_path: "D:/PythonProjects/LD/data/golden/golden.jpg"
+roi_mask_path: "D:/PythonProjects/LD/data/golden/golden_roi_mask.png"
+
+alignment:
+  method: "auto"          # auto|orb|ecc|none
+  max_size: 1200
+  ransac_thresh: 5.0
+  ecc_iterations: 60
+  ecc_eps: 1e-5
+
+illumination:
+  highpass_sigma: 12      # 8..18 — подавление бликов/теней
+  match_mean_std: true    # выравнивание среднего/сигмы к эталону
+
+preprocess:
+  clahe: true
+  blur_ksize: 3
+
+diff:
+  mode: "grad_absdiff"    # grad_absdiff | edges_absdiff | gray_absdiff | ssim
+  grad:
+    use_scharr: true
+    ksize: 3
+    thresh: 0             # 0 => Otsu (автопорог)
+  edges:
+    canny1: 80
+    canny2: 200
+    dilate: 1
+  gray_absdiff:
+    thresh: 35
+  ssim:
+    window_size: 7
+    invert: true
+
+post:
+  open_ksize: 3
+  close_ksize: 3
+  min_blob_area: 16
+
+# ВСЕ маркеры — текст: так и укажем
+rois:
+  "1": { name: "TEXT_TOP",    kind: "text", defect_pct_warn: 1.0, defect_pct_fail: 3.0 }
+  "2": { name: "TEXT_BOTTOM", kind: "text", defect_pct_warn: 1.0, defect_pct_fail: 3.0 }
+  "3": { name: "TEXT_LEFT",   kind: "text", defect_pct_warn: 1.0, defect_pct_fail: 3.0 }
+  "4": { name: "TEXT_RIGHT",  kind: "text", defect_pct_warn: 1.0, defect_pct_fail: 3.0 }
+
+viz:
+  only_inside_rois: true  # <— строго обрезать дефекты по ROI
+  alpha_overlay: 0.45
+  show_labels: true
+
+debug:
+  save_intermediate: true

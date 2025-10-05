@@ -1,0 +1,13 @@
+image;status;roi_id;roi_name;roi_kind;roi_area_px;defect_area_px;defect_pct;roi_status
+D:\PythonProjects\LD\data\incoming\TEST.jpg;FAIL;1;TEXT_TOP;text;35809;7136;19.928;FAIL
+D:\PythonProjects\LD\data\incoming\TEST.jpg;FAIL;2;TEXT_BOTTOM;text;71351;18856;26.4271;FAIL
+D:\PythonProjects\LD\data\incoming\TEST.jpg;FAIL;3;TEXT_LEFT;text;67686;25454;37.606;FAIL
+D:\PythonProjects\LD\data\incoming\TEST.jpg;FAIL;4;TEXT_RIGHT;text;79274;25008;31.5463;FAIL
+D:\PythonProjects\LD\data\incoming\TEST2.JPG;OK;1;TEXT_TOP;text;35809;0;0.0;OK
+D:\PythonProjects\LD\data\incoming\TEST2.JPG;OK;2;TEXT_BOTTOM;text;71351;0;0.0;OK
+D:\PythonProjects\LD\data\incoming\TEST2.JPG;OK;3;TEXT_LEFT;text;67686;0;0.0;OK
+D:\PythonProjects\LD\data\incoming\TEST2.JPG;OK;4;TEXT_RIGHT;text;79274;0;0.0;OK
+D:\PythonProjects\LD\data\incoming\TEST3.jpg;FAIL;1;TEXT_TOP;text;35809;1375;3.8398;FAIL
+D:\PythonProjects\LD\data\incoming\TEST3.jpg;FAIL;2;TEXT_BOTTOM;text;71351;12399;17.3775;FAIL
+D:\PythonProjects\LD\data\incoming\TEST3.jpg;FAIL;3;TEXT_LEFT;text;67686;20482;30.2603;FAIL
+D:\PythonProjects\LD\data\incoming\TEST3.jpg;FAIL;4;TEXT_RIGHT;text;79274;17938;22.6278;FAIL

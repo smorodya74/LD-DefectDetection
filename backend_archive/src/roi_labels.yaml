@@ -1,0 +1,9 @@
+rois:
+  '1':
+    name: ROI_1
+  '2':
+    name: ROI_2
+  '3':
+    name: ROI_3
+  '4':
+    name: ROI_4
